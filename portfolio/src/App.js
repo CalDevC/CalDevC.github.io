@@ -15,10 +15,16 @@ function App() {
         </nav>
       </header>
 
-      <p>
-        Portfolio
-      </p>
-
+      <h2>Hey, I'm Chase</h2>
+      <div className="text-block">
+        <p>
+          I'm a
+        </p>
+        <p>Problem Solver</p>
+        <p>
+          from the San Francisco Bay Area.
+        </p>
+      </div>
     </div>
   );
 }
