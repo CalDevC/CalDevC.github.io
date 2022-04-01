@@ -143,14 +143,13 @@ class Countdown extends Component {
   render() {
     return (
       <div className='countdownBox'>
-        <h3 className='title'>USS-UPI Doomsday Countdown</h3>
+        {/* <h3 className='title'>USS-UPI Doomsday Countdown</h3> */}
         <h1>
-          {this.state.days} days,
-          {this.state.hours < 10 ? `0${this.state.hours}` : this.state.hours}:
+          {this.state.days} days, {this.state.hours < 10 ? `0${this.state.hours}` : this.state.hours}:
           {this.state.min < 10 ? `0${this.state.min}` : this.state.min}:
           {this.state.sec < 10 ? `0${this.state.sec}` : this.state.sec}
         </h1>
-        <h3 className='title'>until unemployment</h3>
+        {/* <h3 className='title'>until unemployment</h3> */}
       </div>
     );
   }
