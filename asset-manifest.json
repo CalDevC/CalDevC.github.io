@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/CalDevC.github.io/static/css/main.75cc9bb5.chunk.css",
-    "main.js": "/CalDevC.github.io/static/js/main.b619eeff.chunk.js",
-    "main.js.map": "/CalDevC.github.io/static/js/main.b619eeff.chunk.js.map",
-    "runtime-main.js": "/CalDevC.github.io/static/js/runtime-main.223a1e09.js",
-    "runtime-main.js.map": "/CalDevC.github.io/static/js/runtime-main.223a1e09.js.map",
-    "static/js/2.7473d7f8.chunk.js": "/CalDevC.github.io/static/js/2.7473d7f8.chunk.js",
-    "static/js/2.7473d7f8.chunk.js.map": "/CalDevC.github.io/static/js/2.7473d7f8.chunk.js.map",
+    "main.css": "/CalDevC.github.io/static/css/main.73a2ff2f.css",
+    "main.js": "/CalDevC.github.io/static/js/main.7fbc3d4d.js",
     "index.html": "/CalDevC.github.io/index.html",
-    "static/css/main.75cc9bb5.chunk.css.map": "/CalDevC.github.io/static/css/main.75cc9bb5.chunk.css.map",
-    "static/js/2.7473d7f8.chunk.js.LICENSE.txt": "/CalDevC.github.io/static/js/2.7473d7f8.chunk.js.LICENSE.txt"
+    "main.73a2ff2f.css.map": "/CalDevC.github.io/static/css/main.73a2ff2f.css.map",
+    "main.7fbc3d4d.js.map": "/CalDevC.github.io/static/js/main.7fbc3d4d.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.223a1e09.js",
-    "static/js/2.7473d7f8.chunk.js",
-    "static/css/main.75cc9bb5.chunk.css",
-    "static/js/main.b619eeff.chunk.js"
+    "static/css/main.73a2ff2f.css",
+    "static/js/main.7fbc3d4d.js"
   ]
 }
